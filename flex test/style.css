@@ -55,6 +55,6 @@
   background-color: aqua;
   width: 400px;
   height: 200px;
-  justify-content: center;
+  text-align: center;
   align-items: center;
 }
