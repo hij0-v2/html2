@@ -1,0 +1,27 @@
+.bigcontainer {
+  display: flex;
+}
+.container-row {
+  display: flex;
+}
+.container-col {
+  display: flex;
+}
+.lorem1 {
+  background-color: lime;
+}
+.lorem2 {
+  background-color: violet;
+}
+.lorem3 {
+  background-color: grey;
+}
+.lorem4 {
+  background-color: aqua;
+}
+.lorem5 {
+  background-color: red;
+}
+.lorem6 {
+  background-color: blue;
+}
