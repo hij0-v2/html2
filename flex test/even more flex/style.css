@@ -1,27 +1,67 @@
 .bigcontainer {
   display: flex;
+  width: 550px;
+  height: 405px;
+  flex-wrap: wrap;
+  background-color: darkmagenta;
+  margin: 5px;
 }
 .container-row {
   display: flex;
+  flex-direction: row;
+  width: 550px;
+  height: 400px;
 }
 .container-col {
   display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 200px;
+
+  background-color: brown;
 }
+.container-col2 {
+  display: flex;
+  flex-direction: column;
+  width: 160px;
+  height: 250px;
+
+  background-color: darkgreen;
+}
+
 .lorem1 {
   background-color: lime;
+  width: 400px;
+  height: 150px;
+  margin: 3px;
 }
 .lorem2 {
   background-color: violet;
+  width: 200px;
+  height: 100px;
+  margin: 3px;
 }
 .lorem3 {
   background-color: grey;
+  width: 150px;
+  height: 200px;
+  margin: 3px;
 }
 .lorem4 {
   background-color: aqua;
+  width: 200px;
+  height: 100px;
+  margin: 3px;
 }
 .lorem5 {
   background-color: red;
+  width: 100px;
+  height: 50px;
+  margin: 3px;
 }
 .lorem6 {
   background-color: blue;
+  width: 150px;
+  height: 400px;
+  margin: 3px;
 }
